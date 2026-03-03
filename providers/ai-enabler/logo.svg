@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <mask id="cutout" maskUnits="userSpaceOnUse">
+    <rect width="40" height="40" fill="white"/>
+    <path d="M20 21.25L8.75 32.5" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+    <path d="M9.09668 20.627H20.1421V31.6724" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+    <path d="M17.6088 18.0887L12.332 12.8145" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+    <path d="M20.1436 17.0387V9.57812" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+    <path d="M22.6797 18.0887L27.954 12.8145" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+    <path d="M23.7275 20.627H31.1881" stroke="black" stroke-width="1.71429" stroke-miterlimit="10"/>
+  </mask>
+</defs>
+<path d="M35.2868 27.0856V14.1644C35.2868 12.7533 34.534 11.4465 33.3092 10.741L22.1197 4.27917C20.8974 3.57361 19.3894 3.57361 18.1671 4.27917L6.97755 10.741C5.75525 11.4465 5 12.7533 5 14.1644V27.0856C5 28.4967 5.75277 29.8035 6.97755 30.509L18.1671 36.9708C19.3894 37.6764 20.8974 37.6764 22.1197 36.9708L33.3092 30.509C34.5316 29.8035 35.2868 28.4967 35.2868 27.0856Z" fill="currentColor" mask="url(#cutout)"/>
+</svg>
